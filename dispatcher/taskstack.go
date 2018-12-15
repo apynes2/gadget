@@ -1,6 +1,6 @@
 package dispatcher
 
-import "github.com/Kasita-Inc/gadget/collection"
+import "github.com/beaconsoftwarellc/gadget/collection"
 
 // TaskStack is a stack for storing tasks.
 type TaskStack interface {

@@ -4,8 +4,8 @@ import (
 	"crypto/aes"
 	"crypto/cipher"
 
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/generator"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/generator"
 )
 
 // AES256KeySize for AWS256 Encryption

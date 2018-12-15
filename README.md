@@ -1,10 +1,10 @@
-[![CircleCI](https://circleci.com/gh/Kasita-Inc/gadget.svg?style=shield&circle-token=4f5131933cee0e4957cc055b6d47a6f6081ec958)](https://circleci.com/gh/Kasita-Inc/gadget)
+[![CircleCI](https://circleci.com/gh/beaconsoftwarellc/gadget.svg?style=shield&circle-token=4f5131933cee0e4957cc055b6d47a6f6081ec958)](https://circleci.com/gh/beaconsoftwarellc/gadget)
 
 # Gadget
 Various utility packages for golang
 
 # Installation
-	import "github.com/Kasita-Inc/gadget"
+	import "github.com/beaconsoftwarellc/gadget"
 
 # Packages
 

@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/log"
 )
 
 const (

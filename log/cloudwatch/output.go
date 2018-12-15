@@ -7,16 +7,16 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kasita-Inc/gadget/timeutil"
+	"github.com/beaconsoftwarellc/gadget/timeutil"
 
 	"github.com/aws/aws-sdk-go/aws/awserr"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/cloudwatchlogs"
 
-	"github.com/Kasita-Inc/gadget/dispatcher"
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/log"
-	"github.com/Kasita-Inc/gadget/stringutil"
+	"github.com/beaconsoftwarellc/gadget/dispatcher"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/stringutil"
 )
 
 // 1 mebibyte is the actual max, but pad with a tenth so we don't have to be

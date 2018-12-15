@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/Kasita-Inc/gadget/crypto"
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/fileutil"
-	"github.com/Kasita-Inc/gadget/stringutil"
+	"github.com/beaconsoftwarellc/gadget/crypto"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/fileutil"
+	"github.com/beaconsoftwarellc/gadget/stringutil"
 )
 
 const (

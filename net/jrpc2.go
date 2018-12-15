@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/generator"
-	"github.com/Kasita-Inc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/generator"
+	"github.com/beaconsoftwarellc/gadget/log"
 )
 
 const (

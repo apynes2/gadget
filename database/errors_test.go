@@ -8,9 +8,9 @@ import (
 	"github.com/go-sql-driver/mysql"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/generator"
-	"github.com/Kasita-Inc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/generator"
+	"github.com/beaconsoftwarellc/gadget/log"
 )
 
 func TestExecutionError(t *testing.T) {

@@ -5,9 +5,9 @@ import (
 
 	"github.com/jmoiron/sqlx"
 
-	"github.com/Kasita-Inc/gadget/database/qb"
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/database/qb"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/log"
 )
 
 // Config defines the interface for a config to establish a database connection

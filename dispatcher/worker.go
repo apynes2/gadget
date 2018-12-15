@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Kasita-Inc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/log"
 )
 
 // DefaultTaskTimeout is the timeout for tasks that do not define their own

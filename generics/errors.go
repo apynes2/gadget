@@ -3,7 +3,7 @@ package generics
 import (
 	"fmt"
 
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 // UnsupportedTypeError is returned when an attempt is made to use a value holder with

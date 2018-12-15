@@ -12,7 +12,7 @@ import (
 	"github.com/aws/aws-sdk-go/service/s3"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Kasita-Inc/gadget/generator"
+	"github.com/beaconsoftwarellc/gadget/generator"
 )
 
 const testBucket = "kasita-integration.test"

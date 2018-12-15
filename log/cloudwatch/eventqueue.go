@@ -3,7 +3,7 @@ package cloudwatch
 import (
 	"github.com/aws/aws-sdk-go/service/cloudwatchlogs"
 
-	"github.com/Kasita-Inc/gadget/collection"
+	"github.com/beaconsoftwarellc/gadget/collection"
 )
 
 // EventQueue for buffering cloud watch events.

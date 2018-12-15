@@ -9,10 +9,10 @@ import (
 
 	"github.com/mattes/migrate"
 
-	"github.com/Kasita-Inc/gadget/database/qb"
-	"github.com/Kasita-Inc/gadget/environment"
-	"github.com/Kasita-Inc/gadget/generator"
-	"github.com/Kasita-Inc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/database/qb"
+	"github.com/beaconsoftwarellc/gadget/environment"
+	"github.com/beaconsoftwarellc/gadget/generator"
+	"github.com/beaconsoftwarellc/gadget/log"
 )
 
 type specification struct {

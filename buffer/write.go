@@ -4,8 +4,8 @@ import (
 	"io"
 	"net"
 
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/intutil"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/intutil"
 )
 
 // BufferSizeBytes is the number of

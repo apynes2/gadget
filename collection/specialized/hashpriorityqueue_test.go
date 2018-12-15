@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Kasita-Inc/gadget/collection"
-	"github.com/Kasita-Inc/gadget/generator"
+	"github.com/beaconsoftwarellc/gadget/collection"
+	"github.com/beaconsoftwarellc/gadget/generator"
 )
 
 type MockHashPriority struct {

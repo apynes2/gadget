@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 // InsertQuery for inserting a row into the database.

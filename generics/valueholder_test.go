@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 type fields struct {

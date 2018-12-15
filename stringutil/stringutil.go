@@ -9,8 +9,8 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"github.com/Kasita-Inc/gadget/intutil"
-	"github.com/Kasita-Inc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/intutil"
+	"github.com/beaconsoftwarellc/gadget/log"
 )
 
 // AnonymizeRunes converts an array of runes to an array of anonymous interfaces

@@ -7,9 +7,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Kasita-Inc/gadget/intutil"
-	"github.com/Kasita-Inc/gadget/log"
-	"github.com/Kasita-Inc/gadget/timeutil"
+	"github.com/beaconsoftwarellc/gadget/intutil"
+	"github.com/beaconsoftwarellc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/timeutil"
 )
 
 // Status is the how the dispatcher is currently functioning.

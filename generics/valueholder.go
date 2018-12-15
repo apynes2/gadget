@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 const (

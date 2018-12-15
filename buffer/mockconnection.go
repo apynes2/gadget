@@ -3,8 +3,8 @@ package buffer
 import (
 	"net"
 
-	"github.com/Kasita-Inc/gadget/collection"
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/collection"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 // MockConnection is used for testing

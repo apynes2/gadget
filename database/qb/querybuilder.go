@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 // ValidationFromNotSetError  is set on the query when From has not been called on this query.

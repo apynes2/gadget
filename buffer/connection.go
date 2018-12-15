@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 // MarshalError is a marker for triggering logic based upon errors that occur during the marshal/unmarshal routines.

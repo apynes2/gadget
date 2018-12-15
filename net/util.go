@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Kasita-Inc/gadget/generator"
-	"github.com/Kasita-Inc/gadget/log"
-	"github.com/Kasita-Inc/gadget/stringutil"
+	"github.com/beaconsoftwarellc/gadget/generator"
+	"github.com/beaconsoftwarellc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/stringutil"
 )
 
 var (

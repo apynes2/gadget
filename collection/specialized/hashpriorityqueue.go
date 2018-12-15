@@ -1,7 +1,7 @@
 package specialized
 
 import (
-	"github.com/Kasita-Inc/gadget/collection"
+	"github.com/beaconsoftwarellc/gadget/collection"
 )
 
 // HashPriority exposes both a priority function and Hash function.

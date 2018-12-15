@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/generator"
-	gnet "github.com/Kasita-Inc/gadget/net"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/generator"
+	gnet "github.com/beaconsoftwarellc/gadget/net"
 )
 
 type MockRWC struct {

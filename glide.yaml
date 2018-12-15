@@ -1,4 +1,4 @@
-package: github.com/Kasita-Inc/gadget
+package: github.com/beaconsoftwarellc/gadget
 import:
 - package: github.com/aws/aws-sdk-go
   version: ^1.15.66

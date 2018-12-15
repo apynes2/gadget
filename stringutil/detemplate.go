@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 // Detemplate takes a pattern with template style markup and a rendered

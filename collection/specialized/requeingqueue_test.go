@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Kasita-Inc/gadget/collection"
+	"github.com/beaconsoftwarellc/gadget/collection"
 )
 
 func TestReuqueingQueue(t *testing.T) {

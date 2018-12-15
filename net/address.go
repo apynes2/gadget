@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/stringutil"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/stringutil"
 )
 
 // Address of a remote host with port information. Does not handle Zones.

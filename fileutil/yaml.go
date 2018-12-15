@@ -6,7 +6,7 @@ import (
 
 	yaml "gopkg.in/yaml.v2"
 
-	"github.com/Kasita-Inc/gadget/buffer"
+	"github.com/beaconsoftwarellc/gadget/buffer"
 )
 
 // ReadYamlFromFile at path filename into the target interface.

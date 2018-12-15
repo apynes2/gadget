@@ -7,7 +7,7 @@ import (
 	"github.com/golang/protobuf/ptypes"
 	"github.com/golang/protobuf/ptypes/timestamp"
 
-	"github.com/Kasita-Inc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/log"
 )
 
 // TimeToTimestamp returns a protobuf Timestamp from a Time object

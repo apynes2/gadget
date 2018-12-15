@@ -3,7 +3,7 @@ package storage
 import (
 	"reflect"
 
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 // ---------- Error Types ---------

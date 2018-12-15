@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Kasita-Inc/gadget/log"
+	"github.com/beaconsoftwarellc/gadget/log"
 )
 
 const awsMetaService = "aws-meta://"

@@ -7,7 +7,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/Kasita-Inc/gadget/generator"
+	"github.com/beaconsoftwarellc/gadget/generator"
 )
 
 // FileExists exists and is accessible and the specified path.

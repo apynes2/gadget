@@ -17,7 +17,7 @@ jobs:
           MYSQL_DATABASE: gadget_test
           MYSQL_USER: gadget_test
           MYSQL_PASSWORD: gadget_test
-    working_directory: /go/src/github.com/Kasita-Inc/gadget
+    working_directory: /go/src/github.com/beaconsoftwarellc/gadget
     steps:
       - checkout
 

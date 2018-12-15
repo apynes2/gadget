@@ -3,7 +3,7 @@ package buffer
 import (
 	"fmt"
 
-	"github.com/Kasita-Inc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/errors"
 )
 
 // TimeoutError is returned when an operation on the connection occurs.

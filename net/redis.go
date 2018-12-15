@@ -9,8 +9,8 @@ import (
 
 	"github.com/go-redis/redis"
 
-	"github.com/Kasita-Inc/gadget/errors"
-	"github.com/Kasita-Inc/gadget/stringutil"
+	"github.com/beaconsoftwarellc/gadget/errors"
+	"github.com/beaconsoftwarellc/gadget/stringutil"
 )
 
 const prodSlug = "cache.amazonaws.com"

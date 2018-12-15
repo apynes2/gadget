@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Kasita-Inc/gadget/environment"
+	"github.com/beaconsoftwarellc/gadget/environment"
 )
 
 func TestGenerateSqlFiles(t *testing.T) {

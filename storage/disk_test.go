@@ -10,7 +10,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Kasita-Inc/gadget/generator"
+	"github.com/beaconsoftwarellc/gadget/generator"
 )
 
 var RootPath = getRootPath()
